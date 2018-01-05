@@ -1,8 +1,10 @@
 @import '~antd/dist/antd.css';
-
-
+.divider-line {
+    color: #333;
+    font-size: 25px;
+}
 .App {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .App-logo {
