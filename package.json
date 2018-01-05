@@ -1,0 +1,24 @@
+{
+  "name": "ant-design-learning",
+  "version": "1.0.0",
+  "description": "ant-design学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-src": "cd ./src && create-react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanzhao1993/ant-design-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanzhao1993/ant-design-learning/issues"
+  },
+  "homepage": "https://github.com/ryanzhao1993/ant-design-learning#readme",
+  "dependencies": {
+    "antd": "^3.1.0"
+  }
+}
